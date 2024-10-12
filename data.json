@@ -1,0 +1,58 @@
+{
+  "status": "ok",
+  "totalResults": 34640,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "India government says criminalising marital rape 'excessively harsh'",
+      "description": "The government has opposed petitions in the country's top court that seek criminalisation of marital rape.",
+      "url": "https://www.bbc.com/news/articles/c80r38yeempo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2b15/live/1e1b2100-8200-11ef-a56e-130bd491f2ab.jpg",
+      "publishedAt": "2024-10-04T06:32:38Z",
+      "content": "The Supreme Court is hearing petitions seeking to amend a law that says a man cannot be prosecuted for rape within marriage\r\nThe Indian government has opposed petitions in the top court that seek cri… [+3190 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "'Outstanding!'- Ghosh takes 'stunning' catch to dismiss Sana",
+      "description": "India wicketkeeper Richa Ghosh pulls off a stunning catch to dismiss Fatima Sana 13-8 in their Womens T20 World Cup match against Pakistan in Dubai.",
+      "url": "https://www.bbc.com/sport/cricket/videos/czegj19kwr5o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/4edc/live/07c2a9e0-83d7-11ef-83dd-fbf1b9732cf0.jpg",
+      "publishedAt": "2024-10-06T11:39:58Z",
+      "content": "India wicketkeeper Richa Ghosh pulls off a stunning catch to dismiss Fatima Sana 13-8 in their Womens T20 World Cup match against Pakistan in Dubai.\r\nFOLLOW LIVE: India v Pakistan\r\nAvailable to UK… [+11 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Stephen Clark",
+      "title": "India approves development of reusable launcher, space station module",
+      "description": "The Indian government has approved $2.7 billion in new spending for its space program.",
+      "url": "https://arstechnica.com/space/2024/09/india-is-on-a-path-to-become-the-worlds-third-largest-space-power/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-1619386780-760x380.jpg",
+      "publishedAt": "2024-09-19T22:50:12Z",
+      "content": "Enlarge/ Parvesh Sahib Singh Verma and Virendra Sachdeva, two members of Narendra Modi's ruling BJP party, celebrate the landing of India's Chandrayaan 3 spacecraft on the Moon on August 23, 2023.\r\n2… [+4725 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "India payments authority inks deal to develop payments system for Trinidad and Tobago",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a32e1394-b0ce-41e3-9508-f88743fe42a6",
+      "urlToImage": null,
+      "publishedAt": "2024-09-27T06:53:12Z",
+      "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    }
+  ]
+}
