@@ -24,16 +24,17 @@ function Sports() {
   }, []);
   return (
     <div>
-      {articles.map((item, index) =>
-        item.urlToImage ? (
-          <LineCard
-            title={item.title}
-            content={item.description}
-            imageUrl={item.urlToImage}
-            key={index}
-          />
-        ) : null
-      )}
+      {articles &&
+        articles.map((item, index) =>
+          item.urlToImage ? (
+            <LineCard
+              title={item.title}
+              content={item.description}
+              imageUrl={item.urlToImage}
+              key={index}
+            />
+          ) : null
+        )}
     </div>
   );
 }

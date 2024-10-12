@@ -24,17 +24,18 @@ function Technology() {
   }, []);
   return (
     <div>
-      {articles.map((item, index) =>
-        item.urlToImage ? (
-          <LineCard
-            title={item.title}
-            content={item.description}
-            imageUrl={item.urlToImage}
-            key={index}
-            className=" md:py-4"
-          />
-        ) : null
-      )}
+      {articles &&
+        articles.map((item, index) =>
+          item.urlToImage ? (
+            <LineCard
+              title={item.title}
+              content={item.description}
+              imageUrl={item.urlToImage}
+              key={index}
+              className=" md:py-4"
+            />
+          ) : null
+        )}
     </div>
   );
 }
